@@ -1,0 +1,7 @@
+public class suboor{
+      public static void main(strings{} args){
+                 for(i = 1; i>= 100; i--){
+                   system.out.println(i);
+}
+}
+}
